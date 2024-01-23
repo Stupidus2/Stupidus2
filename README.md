@@ -2,7 +2,7 @@
 
 nice you made it to my description
 
-###About me
+### About me
 
 
 
@@ -10,7 +10,7 @@ nice you made it to my description
 
 ● Currently learning a lot for school
 
-###Freetime
+### Freetime
 
 
 
