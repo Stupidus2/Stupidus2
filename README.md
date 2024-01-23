@@ -5,12 +5,15 @@ nice you made it to my description
 About me
 
 ● 16 years old
+
 ● Currently learning a lot for school
 
 Freetime
 
 ● Playing drums and volleyball
+
 ● Creating minecraft plugins
+
 ● Building tnt cannons for a small gamemode
 
 <!--
