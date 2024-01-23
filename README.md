@@ -1,7 +1,3 @@
-# Hello👋
-
-nice you made it to my description
-
 ## About me
 
 
