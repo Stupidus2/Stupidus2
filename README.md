@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hello👋
+
+nice you made it to my description
+
+About me
+
+● 16 years old
+● Currently learning a lot for school
+
+Freetime
+
+● Playing drums and volleyball
+● Creating minecraft plugins
+● Building tnt cannons for a small gamemode
 
 <!--
 **Stupidus2/Stupidus2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
