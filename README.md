@@ -16,6 +16,8 @@
 
 ● Building tnt cannons for a small gamemode
 
+● Coding with python and java
+
 <!--
 **Stupidus2/Stupidus2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
