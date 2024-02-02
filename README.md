@@ -14,7 +14,7 @@
 
 ● Creating minecraft plugins
 
-● Building tnt cannons for a small gamemode
+● Building tnt cannons
 
 ● Coding with python and java
 
