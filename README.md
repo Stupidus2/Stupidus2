@@ -2,7 +2,7 @@
 
 
 
-● 16 years old
+● 17 years old
 
 ● Currently learning a lot for school
 
