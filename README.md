@@ -2,7 +2,7 @@
 
 
 
-● 17 years old
+● 18 years old
 
 ● Currently learning a lot for school
 
@@ -11,10 +11,6 @@
 
 
 ● Playing drums and volleyball
-
-● Creating minecraft plugins
-
-● Building tnt cannons
 
 ● Coding with python and java
 
