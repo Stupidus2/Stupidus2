@@ -4,7 +4,7 @@
 
 ● 18 years old
 
-● Currently learning a lot for school
+● Studying business informatics
 
 ## Freetime
 
